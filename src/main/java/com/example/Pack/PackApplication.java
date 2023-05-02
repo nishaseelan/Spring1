@@ -12,7 +12,7 @@ public class PackApplication {
 		
 		Alien a =context.getBean(Alien.class);
 	
-		a.show();
+		
 		
 	}
 
